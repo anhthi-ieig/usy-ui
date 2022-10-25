@@ -1,6 +1,6 @@
 {
   "name": "@anhthi-ieig/usy-ui",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Usy UI Components for React",
   "cjsOutput": "dist/cjs/index.js",
   "esmOutput": "dist/esm/index.js",
